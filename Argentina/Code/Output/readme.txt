@@ -1,0 +1,10 @@
+- 'availability' gets summary statistics of the the availability of bikes in each station
+- 'd_trips_close' gets summary statistics of the trips done that have a bikestation that is located within 400 meters of a subway station as an origin or a destination
+- 'descriptive_stats' builds the descriptive summary statistics table included in the paper
+- 'exploretimes' explores the duration of each trip both in 2019 and 2022. I've done this exercise initially because there was a change in the regulation in 2021 where the government charged a price for trips of more than 30 mins. Since I include data only until 2019 I rule out this analysis.
+- 'group_eff' outputs the regressions by group included in the heterogeneity analysis
+- 'maps_proposal' creates the maps that show the staggered opening of the bike stations
+- 'meli_out' does the regressions of using the data of Mercado Libre included in the endogeneity analysis
+- 'pretrends' does the pretrend analysis
+- 'regs_v2' includes the regressions of the main results
+- 'sutva' includes the regressions from the spatial spillovers analysis, both the neighboring effects as well as the results by subway line. 

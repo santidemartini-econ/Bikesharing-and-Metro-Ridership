@@ -1,0 +1,15 @@
+- All but the real estate data is public. The file 'sources.txt' details the links to get each of the databases contained in this folder
+- 'Argentina' contains a database of the time series of the exchange rate in Argentina, used to harmonize the real estate data
+- 'Availability Bikes' contains the information retrieved in many querys that retrieved information about the availability of bikes in CABA in different points in time. 
+- 'Clima' includes weather data in CABA
+- 'Distances' includes the code and the output data used to measure the distances between each bikeshare station and each subway station
+- 'ENMODO2009' and 'ENMODO2018' contain the travel surveys done in CABA in 2009 and 2018.
+- 'Final' contains the daily and monthly databases used in all the results of the papers. Its construction is detailed in the 'Code' folder
+- 'Geo' contains georeferenced data on bikeshare stations, train, BRT and subway in CABA. 
+- 'MELI' contains data on the listings of real estate properties in Mercado Libre. The databse is not available in the folder due to privacy reasons. If interested, please contact me at 'sd59576@usc.edu'
+- 'Movilidad BID' contains the results of an exercise done by the IADB using smartcard readings data to estimate the flow of people across areas using the public transport
+- 'Regs' includes the regression results. For more detail on the regressions see the 'Code' folder. 
+- 'Subway' includes the subway trips registered in 15 minutes intervals in each subway station since 2018
+- 'Temp' is a folder where temporary results (not used as output results) are stored
+- 'Trips' includes the trips done in the bikeshare system since 2010
+- 'Weekday' includes the non-working and working days database

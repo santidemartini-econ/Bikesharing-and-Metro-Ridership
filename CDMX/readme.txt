@@ -1,0 +1,3 @@
+- 'Code' contains the R codes to replicate the results from the paper
+- 'Data Argentina' contains all the data used in the paper.
+- 'Output' contains the tables and figures included in the paper

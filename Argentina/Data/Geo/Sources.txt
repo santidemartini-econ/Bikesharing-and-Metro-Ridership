@@ -1,0 +1,9 @@
+Bike Stations: https://data.buenosaires.gob.ar/dataset/estaciones-bicicletas-publicas/resource/juqdkmgo-1011-resource-xlsx
+
+Comunas: https://data.buenosaires.gob.ar/dataset/comunas/resource/b0b627ac-5b47-4574-89ac-6999b63598ee
+
+Train: https://data.buenosaires.gob.ar/dataset/estaciones-ferrocarril
+
+BRT: https://data.buenosaires.gob.ar/dataset/metrobus
+
+Subway: https://data.buenosaires.gob.ar/dataset/subte-estaciones

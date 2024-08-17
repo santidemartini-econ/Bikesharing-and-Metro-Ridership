@@ -1,0 +1,22 @@
+
+- geolocalicacion bicicleteros: https://data.buenosaires.gob.ar/dataset/estaciones-bicicletas-publicas/resource/juqdkmgo-1011-resource-xlsx
+- DATOS ECOBICI (usuario, viajes,...): https://data.buenosaires.gob.ar/dataset/bicicletas-publicas/resource/juqdkmgo-224-resource
+
+- cantidad de pasajeros por molinete en estacion de subte: https://data.buenosaires.gob.ar/dataset/subte-viajes-molinetes
+
+- flujo vehicular: https://data.buenosaires.gob.ar/dataset/flujo-vehicular-anillo-digital
+- ENMODO 2018: https://data.buenosaires.gob.ar/dataset/encuesta-movilidad-domiciliaria
+- Enmodo reporte: https://www.cepal.org/sites/default/files/presentations/buenos-aires-hugo-terrile.pdf
+
+- bicicleteros vía pública: https://data.buenosaires.gob.ar/dataset/bicicleteros-via-publica
+- conteo ciclistas: https://data.buenosaires.gob.ar/dataset/conteo-ciclistas
+- flujo vehicular: https://data.buenosaires.gob.ar/dataset/flujo-vehicular-por-unidades-de-peaje-ausa
+
+- origen y destino de viajes 2019-2022: https://data.buenosaires.gob.ar/dataset/viajes-etapas-transporte-publico
+- metodologia del BID: https://github.com/EL-BID/Matriz-Origen-Destino-Transporte-Publico/blob/main/informe/Matriz%20OD%20de%20Transporte%20Publico%20en%20base%20a%20datos%20SUBE.pdf
+
+
+- ENMODO 2014: http://datar.info/dataset/enmodo-2014
+- ENMODO 2009: https://www.argentina.gob.ar/transporte/dgppse/publicaciones/encuestas
+
+MOVILIDAD AMBA: https://github.com/sanapolsky/Analisis-Movilidad-AMBA/blob/master/README.md
